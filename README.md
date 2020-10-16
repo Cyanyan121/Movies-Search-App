@@ -6,9 +6,9 @@ Welcome to the Movie Search Application build with React and The Movie Database 
 
 :bookmark_tabs: Live Demo is available [**here**]().
 
-<img src="D:\OneDrive - HKUST Connect\02 前端练手项目\movies_search_app\display_images\iPhone 6_7_8 Plus.png" alt="iPhone 6_7_8 Plus" style="zoom: 33%;" />
+<img src="./display_images/iPhone 6_7_8 Plus.png" alt="iPhone 6_7_8 Plus" style="zoom: 33%;" />
 
-<img src="D:\OneDrive - HKUST Connect\02 前端练手项目\movies_search_app\display_images\PC.png" alt="PC" style="zoom:33%;" />
+<img src="./display_images/PC.png" alt="PC" style="zoom:33%;" />
 
 ## Running the App
 
