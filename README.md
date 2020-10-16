@@ -5,10 +5,11 @@
 Welcome to the Movie Search Application build with React and The Movie Database (TMDb) API.
 
 :bookmark_tabs: Live Demo is available [**here**]().
+<div  align="center">    
+  <img src="./display_images/iPhone 6_7_8 Plus.png" alt="iPhone 6_7_8 Plus" width = "300"/>
+  <img src="./display_images/PC.png" alt="PC" width = "700"/>
+</div>
 
-<img src="./display_images/iPhone 6_7_8 Plus.png" alt="iPhone 6_7_8 Plus" width = "300" align="center"/>
-
-<img src="./display_images/PC.png" alt="PC" width = "700" align="center"/>
 
 ## Running the App
 
